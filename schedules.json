@@ -1,1 +1,107 @@
-{"updated":null,"channels":[],"events":[]}
+{
+ "updated": "2026-11-18T16:24:43.373Z",
+ "channels": [
+  {
+   "id": "UCn8KqO0eujog_GsnkoilQgQ",
+   "name": "Mimoza Ch. 華咲みもざ",
+   "handle": "@HanazakiMimoza",
+   "color": "#e5334b"
+  },
+  {
+   "id": "UCSBEnELOnKNtkjENIko0Q8A",
+   "name": "花咲すみれch ‐hanasaku sumire ch‐",
+   "handle": "@hanasakusumire",
+   "color": "#2563eb"
+  }
+ ],
+ "events": [
+  {
+   "id": "ocyC6tAuks4",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【完全初見】初めての「ゼルダの伝説 時のオカリナ」 #５【#華咲みもざ / ゆめかいろ】",
+   "start": "2026-11-12T11:59:10Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=ocyC6tAuks4"
+  },
+  {
+   "id": "2lvUwX8IDyU",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#学園アイドルマスター】十王星南 STEP1親愛度コミュ鑑賞会♡＃１２【 #華咲みもざ / ネタバレ注意 】",
+   "start": "2026-11-14T11:59:59Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=2lvUwX8IDyU"
+  },
+  {
+   "id": "KS34sMzZpGY",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【歌枠】登録者数7500人＆歌枠20週連続記念ありがとう！感謝のアニソン歌枠♪【 #華咲みもざ / #karaoke 】",
+   "start": "2026-11-15T12:00:18Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=KS34sMzZpGY"
+  },
+  {
+   "id": "NIpskKuv9l4",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【めっちゃカメレオン】#SURGECity 借り物競争チームでめちゃカメ！【#華咲みもざ】",
+   "start": "2026-11-16T12:00:15Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=NIpskKuv9l4"
+  },
+  {
+   "id": "9zekLiwkBQU",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#学園アイドルマスター】葛城リーリヤ STEP1親愛度コミュ鑑賞会♡＃１３【 #華咲みもざ / ネタバレ注意 】",
+   "start": "2026-11-17T12:59:16Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=9zekLiwkBQU"
+  },
+  {
+   "id": "6dRsYNjAsUQ",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "【 歌枠/睡眠導入】優しいお姉さんの雑談と癒しの静かなお歌枠🌙【 花咲すみれ】#すみらいぶ",
+   "start": "2026-11-17T14:01:17Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=6dRsYNjAsUQ"
+  },
+  {
+   "id": "vJKXKIMJLOE",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【完全初見】初めての「ゼルダの伝説 時のオカリナ」 #６【#華咲みもざ / ゆめかいろ】",
+   "start": "2026-11-18T11:59:41Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=vJKXKIMJLOE"
+  },
+  {
+   "id": "hRmqwJ1WKZI",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#学園アイドルマスター】月村手毬 STEP1親愛度コミュ鑑賞会♡＃１４【 #華咲みもざ / ネタバレ注意 】",
+   "start": "2026-11-19T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=hRmqwJ1WKZI"
+  },
+  {
+   "id": "LD0zWKq9_i4",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【完全初見】初めての「ゼルダの伝説 時のオカリナ」 #７【#華咲みもざ / ゆめかいろ】",
+   "start": "2026-11-20T13:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=LD0zWKq9_i4"
+  },
+  {
+   "id": "DVp0OaU2_v0",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【VTuberアイドル歌枠リレー】トップアイドル、武道館ライブを目指して。【 #華咲みもざ / #karaoke 】",
+   "start": "2026-11-21T06:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=DVp0OaU2_v0"
+  },
+  {
+   "id": "79-06gu_EWo",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#学園アイドルマスター】紫雲清夏 STEP1親愛度コミュ鑑賞会♡＃１５【 #華咲みもざ / ネタバレ注意 】",
+   "start": "2026-11-22T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=79-06gu_EWo"
+  }
+ ]
+}
