@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:14:48.431Z",
+ "updated": "2026-11-21T22:46:55.194Z",
  "channels": [
   {
    "id": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -50,7 +50,7 @@
   {
    "id": "vJKXKIMJLOE",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
-   "title": "【完全初見】初めての「ゼルダの伝説 時のオカリナ」 #６【#華咲みもざ / ゆめかいろ】",
+   "title": "【完全初見】「ゼルダの伝説 時のオカリナ」闇の神殿に挑む。 #６【#華咲みもざ / ゆめかいろ】",
    "start": "2026-11-18T11:59:41Z",
    "status": "none",
    "url": "https://www.youtube.com/watch?v=vJKXKIMJLOE"
@@ -66,7 +66,7 @@
   {
    "id": "LD0zWKq9_i4",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
-   "title": "【完全初見】初めての「ゼルダの伝説 時のオカリナ」 #７【#華咲みもざ / ゆめかいろ】",
+   "title": "【完全初見】「ゼルダの伝説 時のオカリナ」魂の神殿、攻略！ #７【#華咲みもざ / ゆめかいろ】",
    "start": "2026-11-20T12:59:50Z",
    "status": "none",
    "url": "https://www.youtube.com/watch?v=LD0zWKq9_i4"
@@ -92,7 +92,7 @@
    "ch": "UCSBEnELOnKNtkjENIko0Q8A",
    "title": "🔴【 #歌枠 】初見さん歓迎！同接50名様耐久💦 #すみらいぶ #耐久配信 #singingstream",
    "start": "2026-11-21T14:02:00Z",
-   "status": "live",
+   "status": "none",
    "url": "https://www.youtube.com/watch?v=ybqEcCOd_cc"
   },
   {
@@ -102,6 +102,22 @@
    "start": "2026-11-22T12:00:00Z",
    "status": "upcoming",
    "url": "https://www.youtube.com/watch?v=79-06gu_EWo"
+  },
+  {
+   "id": "I8Audq9xgC4",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#りんごカップ】VALORANT大会顔合わせ🍎【#華咲みもざ / VALORANT】",
+   "start": "2026-11-23T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=I8Audq9xgC4"
+  },
+  {
+   "id": "OwJCleIkgXc",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【完全初見】「ゼルダの伝説 時のオカリナ」最終回！？ #８【#華咲みもざ / ゆめかいろ】",
+   "start": "2026-11-24T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=OwJCleIkgXc"
   }
  ]
 }
