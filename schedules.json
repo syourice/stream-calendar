@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:04:19.473Z",
+ "updated": "2026-11-22T23:15:24.978Z",
  "channels": [
   {
    "id": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -100,7 +100,7 @@
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
    "title": "【#学園アイドルマスター】紫雲清夏 STEP1親愛度コミュ鑑賞会♡＃１５【 #華咲みもざ / ネタバレ注意 】",
    "start": "2026-11-22T12:00:13Z",
-   "status": "live",
+   "status": "none",
    "url": "https://www.youtube.com/watch?v=79-06gu_EWo"
   },
   {
@@ -118,6 +118,14 @@
    "start": "2026-11-24T12:00:00Z",
    "status": "upcoming",
    "url": "https://www.youtube.com/watch?v=OwJCleIkgXc"
+  },
+  {
+   "id": "nbXDrAQhmpc",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#学園アイドルマスター】倉本千奈 STEP1親愛度コミュ鑑賞会♡＃１６【 #華咲みもざ / ネタバレ注意 】",
+   "start": "2026-11-26T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=nbXDrAQhmpc"
   }
  ]
 }
