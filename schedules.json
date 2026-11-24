@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:49:53.549Z",
+ "updated": "2026-11-24T16:58:40.962Z",
  "channels": [
   {
    "id": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -15,22 +15,6 @@
   }
  ],
  "events": [
-  {
-   "id": "9zekLiwkBQU",
-   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
-   "title": "【#学園アイドルマスター】葛城リーリヤ STEP1親愛度コミュ鑑賞会♡＃１３【 #華咲みもざ / ネタバレ注意 】",
-   "start": "2026-11-17T12:59:16Z",
-   "status": "none",
-   "url": "https://www.youtube.com/watch?v=9zekLiwkBQU"
-  },
-  {
-   "id": "6dRsYNjAsUQ",
-   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
-   "title": "【 歌枠/睡眠導入】優しいお姉さんの雑談と癒しの静かなお歌枠🌙【 花咲すみれ】#すみらいぶ",
-   "start": "2026-11-17T14:01:17Z",
-   "status": "none",
-   "url": "https://www.youtube.com/watch?v=6dRsYNjAsUQ"
-  },
   {
    "id": "vJKXKIMJLOE",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -107,9 +91,17 @@
    "id": "OwJCleIkgXc",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
    "title": "【完全初見】「ゼルダの伝説 時のオカリナ」最終回！？ #８【#華咲みもざ / ゆめかいろ】",
-   "start": "2026-11-24T12:00:00Z",
-   "status": "upcoming",
+   "start": "2026-11-24T12:00:33Z",
+   "status": "none",
    "url": "https://www.youtube.com/watch?v=OwJCleIkgXc"
+  },
+  {
+   "id": "3pq3Z6wqjOs",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "【睡眠導入】やさしいお姉さんの読み聞かせ📖ムーミン谷の夏まつり【#花咲すみれ 】#vtuber",
+   "start": "2026-11-24T14:16:32Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=3pq3Z6wqjOs"
   },
   {
    "id": "nbXDrAQhmpc",
@@ -118,6 +110,14 @@
    "start": "2026-11-26T12:00:00Z",
    "status": "upcoming",
    "url": "https://www.youtube.com/watch?v=nbXDrAQhmpc"
+  },
+  {
+   "id": "cSh9TBsbMd8",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【歌枠】デビュー5ヶ月記念＆登録者数10000人耐久歌枠！【 #華咲みもざ / #karaoke 】",
+   "start": "2026-11-28T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=cSh9TBsbMd8"
   }
  ]
 }
