@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:35:06.066Z",
+ "updated": "2026-11-26T16:25:43.828Z",
  "channels": [
   {
    "id": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -15,14 +15,6 @@
   }
  ],
  "events": [
-  {
-   "id": "hRmqwJ1WKZI",
-   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
-   "title": "【#学園アイドルマスター】月村手毬 STEP1親愛度コミュ鑑賞会♡＃１４【 #華咲みもざ / ネタバレ注意 】",
-   "start": "2026-11-19T12:00:28Z",
-   "status": "none",
-   "url": "https://www.youtube.com/watch?v=hRmqwJ1WKZI"
-  },
   {
    "id": "LD0zWKq9_i4",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -99,9 +91,33 @@
    "id": "nbXDrAQhmpc",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
    "title": "【#学園アイドルマスター】倉本千奈 STEP1親愛度コミュ鑑賞会♡＃１６【 #華咲みもざ / ネタバレ注意 】",
-   "start": "2026-11-26T12:00:00Z",
-   "status": "upcoming",
+   "start": "2026-11-26T11:59:51Z",
+   "status": "none",
    "url": "https://www.youtube.com/watch?v=nbXDrAQhmpc"
+  },
+  {
+   "id": "GYWgjKOTdjY",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "【アカペラ/歌枠】高評価100目標♪優しいお姉さんの雑談と寝られるお歌枠🌙【 花咲すみれ】#すみらいぶ",
+   "start": "2026-11-26T13:59:39Z",
+   "status": "none",
+   "url": "https://www.youtube.com/watch?v=GYWgjKOTdjY"
+  },
+  {
+   "id": "9trnjqQpuIg",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#りんごカップ】VALO大会練習スクリム🍎#まだ決まっていませんWIN【#華咲みもざ / VALORANT】",
+   "start": "2026-11-27T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=9trnjqQpuIg"
+  },
+  {
+   "id": "ZSG6VpTZzxw",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "【#雑談 】お姉さんと一緒に飲んでお話しよ🍻アーカイブメン限【#すみらいぶ 】#vtuber #飲酒",
+   "start": "2026-11-27T14:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=ZSG6VpTZzxw"
   },
   {
    "id": "cSh9TBsbMd8",
@@ -110,6 +126,38 @@
    "start": "2026-11-28T12:00:00Z",
    "status": "upcoming",
    "url": "https://www.youtube.com/watch?v=cSh9TBsbMd8"
+  },
+  {
+   "id": "xRvIcix1Qlw",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "🔴【 #歌枠 】初見さん歓迎！同接50名様耐久💦 #すみらいぶ #耐久配信 #singingstream",
+   "start": "2026-11-28T14:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=xRvIcix1Qlw"
+  },
+  {
+   "id": "wCbzN0w0tvw",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "【 歌枠/睡眠導入】優しいお姉さんの雑談と癒しの静かなお歌枠🌙【 花咲すみれ】#すみらいぶ",
+   "start": "2026-11-30T14:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=wCbzN0w0tvw"
+  },
+  {
+   "id": "bo7Mg77mXAc",
+   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
+   "title": "【#りんごカップ】はじめての大会出場！🍎#まだ決まっていませんWIN【#華咲みもざ / VALORANT】",
+   "start": "2026-12-04T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=bo7Mg77mXAc"
+  },
+  {
+   "id": "GnXMyyI9mRo",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "【#お姉さんパラダイス歌枠リレー 】とにかく優しくておちゃめなお姉さんです！【#花咲すみれ 】#歌枠",
+   "start": "2026-12-06T12:10:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=GnXMyyI9mRo"
   }
  ]
 }
