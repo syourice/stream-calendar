@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:29:32.408Z",
+ "updated": "2026-11-27T16:10:36.797Z",
  "channels": [
   {
    "id": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -15,22 +15,6 @@
   }
  ],
  "events": [
-  {
-   "id": "LD0zWKq9_i4",
-   "ch": "UCn8KqO0eujog_GsnkoilQgQ",
-   "title": "【完全初見】「ゼルダの伝説 時のオカリナ」魂の神殿、攻略！ #７【#華咲みもざ / ゆめかいろ】",
-   "start": "2026-11-20T12:59:50Z",
-   "status": "none",
-   "url": "https://www.youtube.com/watch?v=LD0zWKq9_i4"
-  },
-  {
-   "id": "Vood3i2Jj94",
-   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
-   "title": "【#雑談 】雑談得意なお姉さんVを探してるあなたにぴったり癒しの雑談枠💜【#すみらいぶ 】#vtuber",
-   "start": "2026-11-20T14:02:33Z",
-   "status": "none",
-   "url": "https://www.youtube.com/watch?v=Vood3i2Jj94"
-  },
   {
    "id": "DVp0OaU2_v0",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
@@ -107,16 +91,16 @@
    "id": "9trnjqQpuIg",
    "ch": "UCn8KqO0eujog_GsnkoilQgQ",
    "title": "【#りんごカップ】VALO大会練習スクリム🍎#まだ決まっていませんWIN【#華咲みもざ / VALORANT】",
-   "start": "2026-11-27T12:00:00Z",
-   "status": "upcoming",
+   "start": "2026-11-27T12:00:11Z",
+   "status": "none",
    "url": "https://www.youtube.com/watch?v=9trnjqQpuIg"
   },
   {
    "id": "ZSG6VpTZzxw",
    "ch": "UCSBEnELOnKNtkjENIko0Q8A",
    "title": "【#雑談 】お姉さんと一緒に飲んでお話しよ🍻アーカイブメン限【#すみらいぶ 】#vtuber #飲酒",
-   "start": "2026-11-27T14:00:00Z",
-   "status": "upcoming",
+   "start": "2026-11-27T14:05:07Z",
+   "status": "live",
    "url": "https://www.youtube.com/watch?v=ZSG6VpTZzxw"
   },
   {
@@ -134,6 +118,14 @@
    "start": "2026-11-28T14:00:00Z",
    "status": "upcoming",
    "url": "https://www.youtube.com/watch?v=xRvIcix1Qlw"
+  },
+  {
+   "id": "EF0P7nHU6E8",
+   "ch": "UCSBEnELOnKNtkjENIko0Q8A",
+   "title": "11／29 21:00～ premiere",
+   "start": "2026-11-29T12:00:00Z",
+   "status": "upcoming",
+   "url": "https://www.youtube.com/watch?v=EF0P7nHU6E8"
   },
   {
    "id": "wCbzN0w0tvw",
